@@ -107,4 +107,3 @@ def pais_mas_representado_por_distrito(registros:list[RegistroExtranjeria])->dic
         distrito_pais_con_mas_gente[distrito] = pais_mas_gente
     return distrito_pais_con_mas_gente
       
-      
